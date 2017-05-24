@@ -1,0 +1,26 @@
+{
+  "name": "pug-exercises",
+  "version": "1.0.0",
+  "description": "some pug exercíses to learn how to use this powerfull tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alissonjr/pug-exercises.git"
+  },
+  "keywords": [
+    "pug",
+    "exercises"
+  ],
+  "author": "Alisson Costa de Oliveira Júnior <alisson.coj@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alissonjr/pug-exercises/issues"
+  },
+  "homepage": "https://github.com/alissonjr/pug-exercises#readme",
+  "dev-dependencies": {
+    "pug": "^2.0.0-rc.1"
+  }
+}
