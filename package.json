@@ -20,7 +20,10 @@
     "url": "https://github.com/alissonjr/pug-exercises/issues"
   },
   "homepage": "https://github.com/alissonjr/pug-exercises#readme",
-  "dev-dependencies": {
+  "devDependencies": {
     "pug": "^2.0.0-rc.1"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7"
   }
 }

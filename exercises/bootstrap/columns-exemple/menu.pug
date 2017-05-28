@@ -1,0 +1,21 @@
+-
+	const navegation = [
+		{
+			item: "Home",
+			link: "/home"
+		},
+		{
+			item: "About",
+			link: "/about"
+		},
+		{
+			item: "Contact",
+			link: "/contact"
+		},
+	]
+nav
+	ul(class="nav nav-pills pull-right")
+		for item in navegation
+			li(role="presentation" class="active")
+				a(href=item.link)= item.item
+	h3(class="text-muted") Pug Bootstrap Test
